@@ -1,2 +1,2 @@
-# Public_projects
-This repository contains open source projects, which are available for review.
+# Python_projects
+This repository contains open source projects in the Python programming language, which are available for review.
