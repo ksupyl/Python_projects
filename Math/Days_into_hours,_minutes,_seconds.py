@@ -1,2 +1,2 @@
 days = int(input())
-print(f"{days} суток = {days * 24} часов = {days * 1440} минут = {days * 86400} секунд")
+print(f"{days} days = {days * 24} hours = {days * 1440} minutes = {days * 86400} seconds")
